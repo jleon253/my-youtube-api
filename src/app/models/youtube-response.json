@@ -1,0 +1,451 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "JcUJjHY3VkMuJ_YQ8ebg68MDxtY",
+  "nextPageToken": "CAoQAA",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fSpuGUn3cYhdgYy7gZ57TEmCc6s",
+      "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLmJIYklGVDJhU3Jv",
+      "snippet": {
+        "publishedAt": "2020-05-08T14:30:40Z",
+        "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+        "title": "FadeInImage - Widget de la Semana",
+        "description": "Curso de Flutter Completo:\nhttps://fernando-herrera.com/#/curso/flutter\n\nCurso de Flutter sobre diseños:\nhttps://fernando-herrera.com/#/curso/flutter-disenos\n\nCurso de Dart Completo:\nhttps://fernando-herrera.com/#/curso/dart\n\n\nMaterial de las clases:\nhttps://fernando-herrera.com/youtube/Material-de-Clases.zip\n\n\n\nCurso de Flutter Gratuito:\nhttps://fernando-herrera.com/#/curso/flutter-free\n\nWidget of the Week - Oficial de Flutter\n\nhttps://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG\n\n\n\n\nImagen del Perro en Picsum\nhttps://i.picsum.photos/id/237/800/600.jpg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bHbIFT2aSro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bHbIFT2aSro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bHbIFT2aSro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bHbIFT2aSro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bHbIFT2aSro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fernando Herrera",
+        "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bHbIFT2aSro"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mQzq3p5mAUMbpfL8LUBFEGjQ3Bk",
+      "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLlZpNkF4cTNSYU5F",
+      "snippet": {
+        "publishedAt": "2020-05-01T16:33:27Z",
+        "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+        "title": "10- Limit  y Paginación",
+        "description": "Sitioweb: https://fernando-herrera.com/#/home",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vi6Axq3RaNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vi6Axq3RaNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vi6Axq3RaNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vi6Axq3RaNE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vi6Axq3RaNE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fernando Herrera",
+        "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Vi6Axq3RaNE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GVN1wEe7-Z-8xJT12Ob0oSLu_oQ",
+      "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLnBIWXkzd293R29j",
+      "snippet": {
+        "publishedAt": "2020-05-01T16:33:27Z",
+        "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+        "title": "09- orderBy",
+        "description": "Sitioweb: https://fernando-herrera.com/#/home",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pHYy3wowGoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pHYy3wowGoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pHYy3wowGoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pHYy3wowGoc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pHYy3wowGoc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fernando Herrera",
+        "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pHYy3wowGoc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8sYTgk69O5o7AlJqYIioaT056U4",
+      "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLktzRXdocFUzQUtR",
+      "snippet": {
+        "publishedAt": "2020-04-30T15:51:08Z",
+        "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+        "title": "SliverList y SliverGrid - Widget de la Semana",
+        "description": "Curso de Flutter Completo:\nhttps://fernando-herrera.com/#/curso/flutter\n\nCurso de Flutter sobre diseños:\nhttps://fernando-herrera.com/#/curso/flutter-disenos\n\nCurso de Dart Completo:\nhttps://fernando-herrera.com/#/curso/dart\n\n\nMaterial de las clases:\nhttps://fernando-herrera.com/youtube/Material-de-Clases.zip\n\n\n\nCurso de Flutter Gratuito:\nhttps://fernando-herrera.com/#/curso/flutter-free\n\nWidget of the Week - Oficial de Flutter\nhttps://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KsEwhpU3AKQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KsEwhpU3AKQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KsEwhpU3AKQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KsEwhpU3AKQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KsEwhpU3AKQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fernando Herrera",
+        "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KsEwhpU3AKQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zDAIv8xDvtyqlsNLceQE_2XzBjQ",
+      "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLnlhSTYtdUkwWHJR",
+      "snippet": {
+        "publishedAt": "2020-04-24T22:10:30Z",
+        "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+        "title": "08- Indices y clausula where",
+        "description": "Sitio web: https://fernando-herrera.com/#/home",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yaI6-uI0XrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yaI6-uI0XrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yaI6-uI0XrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yaI6-uI0XrQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yaI6-uI0XrQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fernando Herrera",
+        "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yaI6-uI0XrQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oH2U-c_lIxRNJ3jFtvjrlqSnB9M",
+      "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLmd0VGVORkVSdVB3",
+      "snippet": {
+        "publishedAt": "2020-04-24T22:10:24Z",
+        "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+        "title": "07- Optimizando el codigo",
+        "description": "Sitio web: https://fernando-herrera.com/#/home",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gtTeNFERuPw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gtTeNFERuPw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gtTeNFERuPw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gtTeNFERuPw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gtTeNFERuPw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fernando Herrera",
+        "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gtTeNFERuPw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "688cwUeCIU6pB7YjGMR5BDvFI1k",
+      "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLk5EVEkwb19iWl9B",
+      "snippet": {
+        "publishedAt": "2020-04-23T20:52:20Z",
+        "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+        "title": "SliverAppBar - Widget de la Semana",
+        "description": "Curso de Flutter Completo:\nhttps://fernando-herrera.com/#/curso/flutter\n\nCurso de Flutter sobre diseños:\nhttps://fernando-herrera.com/#/curso/flutter-disenos\n\nCurso de Dart Completo:\nhttps://fernando-herrera.com/#/curso/dart\n\n\nMaterial de las clases:\nhttps://fernando-herrera.com/youtube/Material-de-Clases.zip\n\n\n\nCurso de Flutter Gratuito:\nhttps://fernando-herrera.com/#/curso/flutter-free\n\nWidget of the Week - Oficial de Flutter\nhttps://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NDTI0o_bZ_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NDTI0o_bZ_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NDTI0o_bZ_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NDTI0o_bZ_A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NDTI0o_bZ_A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fernando Herrera",
+        "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NDTI0o_bZ_A"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qBAGTtbMTJHGkE7ufYxSf4GjjPk",
+      "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLmdwd0RIaWswNHlj",
+      "snippet": {
+        "publishedAt": "2020-04-21T19:52:06Z",
+        "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+        "title": "06- Seleccionar todos los registros de una colección",
+        "description": "Repositiorio:\nhttps://github.com/Klerith/webpack-starter-typescript\n\nDocumentación del API:\nhttps://googleapis.dev/nodejs/firestore/latest/CollectionReference.html#add",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gpwDHik04yc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gpwDHik04yc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gpwDHik04yc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fernando Herrera",
+        "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gpwDHik04yc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nKLf-6NFHxmhUs1qYEzwWR28gpA",
+      "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLncwWXhVMmdWTlhJ",
+      "snippet": {
+        "publishedAt": "2020-04-21T19:52:06Z",
+        "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+        "title": "05- Borrar información en Firestore",
+        "description": "Repositiorio:\nhttps://github.com/Klerith/webpack-starter-typescript\n\nDocumentación del API:\nhttps://googleapis.dev/nodejs/firestore/latest/CollectionReference.html#add",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w0YxU2gVNXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w0YxU2gVNXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w0YxU2gVNXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w0YxU2gVNXI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w0YxU2gVNXI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fernando Herrera",
+        "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w0YxU2gVNXI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KbaaDJ48aFAdmrVLDOkk0XJxYRg",
+      "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLjhTWElrWnhMWXpJ",
+      "snippet": {
+        "publishedAt": "2020-04-21T19:52:06Z",
+        "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+        "title": "04- Actualizar data en Firestore",
+        "description": "Repositiorio:\nhttps://github.com/Klerith/webpack-starter-typescript\n\nDocumentación del API:\nhttps://googleapis.dev/nodejs/firestore/latest/CollectionReference.html#add",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8SXIkZxLYzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8SXIkZxLYzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8SXIkZxLYzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8SXIkZxLYzI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8SXIkZxLYzI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fernando Herrera",
+        "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8SXIkZxLYzI"
+        }
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 461,
+    "resultsPerPage": 10
+  }
+}
