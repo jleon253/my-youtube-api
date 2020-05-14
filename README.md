@@ -1,4 +1,14 @@
-# YoutubeApp
+# My YoutubeApp
+
+This a small app for test Youtube API with Angular 8.
+
+> The Youtube Channel show in this project is: https://www.youtube.com/channel/UCuaPTYj15JSkETGnEseaFFg
+
+### Dev tools used
+
+> - HTML, CSS, Bootstrap, Animate.css (https://animate.style/)
+> - ES6, Angular 8
+> - Youtube API (https://developers.google.com/youtube/v3/docs)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
